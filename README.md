@@ -13,6 +13,8 @@
 
 ## Updates
 
+- update-1.1.1
+> Set #desktop and #mobile correctly
 - update-1.1.0
 > Added a layout folder with desktop and mobile wireframe to the project.
 > Added #wireframes, #desktop, and #mobile section.
@@ -44,7 +46,7 @@
 ### Wireframes
 
 #### Desktop
-![Desktop wireframe](layout\desktop-wireframe.png "Desktop wireframe")
+![Desktop wireframe](layout/desktop-wireframe.png "Desktop wireframe")
 
 #### Mobile
-![Mobile wireframe](layout\mobile-wireframe.png "Mobile wireframe")
+![Mobile wireframe](layout/mobile-wireframe.png "Mobile wireframe")
