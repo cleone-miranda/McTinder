@@ -4,12 +4,14 @@
 
 ## Table of Contents
 - [Updates](#Updates)
-- [Project Steps](#Project Steps)
+- [Project Steps](#ProjectSteps)
 
 ---
 
-## Updates
+## Updates <a name="Updates">
 
+- update-1.0.3
+> Set the #ProjectSteps correctly
 - update-1.0.2
 > Set the #ProjectSteps correctly
 - update-1.0.1
@@ -19,7 +21,7 @@
 
 ---
 
-## Projects Steps 
+## Projects Steps <a name="ProjectSteps">
 
 - Wireframing;
 - Make the layout;
