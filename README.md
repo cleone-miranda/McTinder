@@ -2,33 +2,54 @@
 
 ---
 
-# Table of Contents
+## Table of Contents
+
 - [Updates](#updates)
 - [Project Steps](#project-steps)
-    - [Wireframe](#wireframes)
-        - [Desktop](#desktop)
-        - [Mobile](#mobile)
+  - [Wireframe](#wireframes)
+    - [Desktop](#desktop)
+    - [Mobile](#mobile)
 
 ---
 
 ## Updates
 
+- update-1.1.2
+
+> ReadeMe debugged
+> lunch.jason added for accident but it's empty
+
 - update-1.1.1
+
 > Set #desktop and #mobile correctly
+
 - update-1.1.0
+
 > Added a layout folder with desktop and mobile wireframe to the project.
 > Added #wireframes, #desktop, and #mobile section.
+
 - update-1.0.5
+
 > Set the #project-steps correctly
+
 - update-1.0.4
+
 > Set the #ProjectSteps correctly
+
 - update-1.0.3
+
 > Set the #ProjectSteps correctly
+
 - update-1.0.2
+
 > Set the #ProjectSteps correctly
+
 - update-1.0.1
+
 > Set the #ProjectSteps correctly
+
 - update-1
+
 > Adding the project steps.
 
 ---
@@ -37,8 +58,8 @@
 
 - Wireframing;
 - Make the layout;
-    - Typography;
-    - Colorscheme;
+  - Typography;
+  - Colorscheme;
 - Make a prototype;
 - Code HTML;
 - Code CSS;
@@ -46,7 +67,9 @@
 ### Wireframes
 
 #### Desktop
+
 ![Desktop wireframe](layout/desktop-wireframe.png "Desktop wireframe")
 
 #### Mobile
+
 ![Mobile wireframe](layout/mobile-wireframe.png "Mobile wireframe")
