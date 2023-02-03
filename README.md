@@ -4,12 +4,14 @@
 
 ## Table of Contents
 - [Updates](#Updates)
-- [Project Steps](#ProjectSteps)
+- [Project Steps](#Project Steps)
 
 ---
 
 ## Updates
 
+- update-1.0.2
+> Set the #ProjectSteps correctly
 - update-1.0.1
 > Set the #ProjectSteps correctly
 - update-1
