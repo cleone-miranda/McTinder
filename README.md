@@ -1,15 +1,17 @@
-﻿# McTinder
+# McTinder
 
 ---
 
 # Table of Contents
-- [Updates](#Updates)
-- [Project Steps](#Project-Steps)
+- [Updates](#updates)
+- [Project Steps](#project-steps)
 
 ---
 
 ## Updates
 
+- update-1.0.5
+> Set the #project-steps correctly
 - update-1.0.4
 > Set the #ProjectSteps correctly
 - update-1.0.3
@@ -23,7 +25,7 @@
 
 ---
 
- ## Projects Steps
+## Project Steps
 
 - Wireframing;
 - Make the layout;
